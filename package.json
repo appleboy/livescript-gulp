@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/appleboy/livescript-gulp/issues"
   },
-  "homepage": "https://github.com/appleboy/livescript-gulp"
+  "homepage": "https://github.com/appleboy/livescript-gulp",
+  "devDependencies": {
+    "LiveScript": "~1.2.0",
+    "gulp": "~3.5.5"
+  }
 }
