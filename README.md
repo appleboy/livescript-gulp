@@ -2,13 +2,13 @@
 
 A tiny wrapper around Gulp to run your gulpfile.ls.
 
-# Install
+### Install
 
 ```
 $ npm install livescript-gulp -g
 ```
 
-# Usage
+### Usage
 
 ```
 $ lsc-gulp
