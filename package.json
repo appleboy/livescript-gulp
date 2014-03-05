@@ -1,6 +1,6 @@
 {
   "name": "livescript-gulp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A tiny wrapper around Gulp to run your `gulpfile.ls`.",
   "main": "index.js",
   "scripts": {
