@@ -1,0 +1,26 @@
+{
+  "name": "livescript-gulp",
+  "version": "0.0.0",
+  "description": "A tiny wrapper around Gulp to run your `gulpfile.ls`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/appleboy/livescript-gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "wrapper",
+    "livescript",
+    "live-script",
+    "LiveScript"
+  ],
+  "author": "Bo-Yi Wu <appleboy.tw@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/appleboy/livescript-gulp/issues"
+  },
+  "homepage": "https://github.com/appleboy/livescript-gulp"
+}
